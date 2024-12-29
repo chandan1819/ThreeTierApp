@@ -139,4 +139,3 @@ Go to EC2 console, access security group section and delete security groups crea
 - Submit a Pull Request with a detailed description of your changes.
 
 ---
-Happy Learning! 🚀👨‍💻👩‍💻
